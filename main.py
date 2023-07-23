@@ -1,3 +1,4 @@
+## https://github.com/daveebbelaar/langchain-experiments/tree/main
 from langchain.document_loaders import YoutubeLoader
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from langchain.embeddings.openai import OpenAIEmbeddings

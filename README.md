@@ -1,0 +1,2 @@
+# LangChainYoutubeTranscribe
+LangChain Youtube Transcribe
